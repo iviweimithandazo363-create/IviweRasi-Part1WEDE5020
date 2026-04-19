@@ -2,7 +2,7 @@
 # Student Information
 Name: Iviwe Rasi Student Number: ST10471672
 # Project Overview
-This website is for an Auto Electrical company that works with car, fixing, diagnosing and many more
+This website is for Rasi Auto Electrical company that works with car diagnostics and servicing 
 # Changes
 Added images to the home page, services and about page
 Fixed the footer and added more contact details, like call and email.
